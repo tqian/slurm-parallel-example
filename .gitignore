@@ -1,0 +1,40 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# R package build artifacts
+.Rcheck/
+.Rbuildignore
+
+# Output, cache, or results
+*.utf8.md
+*.knit.md
+*.html
+*.pdf
+*.log
+*.aux
+*.out
+*.toc
+cache/
+*_cache/
+*.Rout
+*.Rout.save
+*.RDataTmp
+.RDataTmp
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.~lock.*
+*.DS_Store
