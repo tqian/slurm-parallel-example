@@ -11,7 +11,6 @@ This repository demonstrates how to run an embarrassingly parallel simulation us
 
 ```bash
 # Upload the entire directory to HPC
-# (Make sure out_and_err_files/ subdirectory exists)
 
 # Submit parallel simulation job
 sbatch batch_simulation.sh
