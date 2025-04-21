@@ -111,7 +111,7 @@ sbatch compute_truth.slurm
 	- Extracts the model’s coefficient estimates, standard errors, and confidence intervals.
 	- Returns these values as a list.
 
-- **Other Directories:**
+- **Other Directories (generated during the computation process):**
 	- `out_and_err_files/`: Contains the Slurm output and error files to help diagnose issues.
 	- `result_tmp/`: Stores the individual temporary result files from each simulation task.
 	- `result_collected/`: Contains aggregated results for each simulation configuration.
